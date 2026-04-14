@@ -1,4 +1,4 @@
-## Hi 
+## GIS IS FUN!
 
 <!--
 **lewardnavy-lsu/lewardnavy-lsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Current Weather!
+## Current Weather
 A map showing real-time weather radar and alerts from the National Weather Service.  
 <https://lewardnavy-lsu.github.io/lewardnavy-lsu/weather/>
