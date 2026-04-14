@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ## Current Weather
 A map showing real-time weather radar and alerts from the National Weather Service.  
 <https://lewardnavy-lsu.github.io/lewardnavy-lsu/weather/>
+
+## Photo Map Tour
+A map showing locations to visit as a tourist in Norfolk, Virgina.
+<https://lewardnavy-lsu.github.io/photomap/>
