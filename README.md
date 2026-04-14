@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Current Weather!
+A map showing real-time weather radar and alerts from the National Weather Service.  <https://lewardnavy-lsu.github.io/lewardnavy-lsu/weather/>
